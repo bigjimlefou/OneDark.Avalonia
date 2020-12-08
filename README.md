@@ -7,8 +7,8 @@ A simple OneDark theme for Avalonia generated with Avalonia Theme Editor
 The easiest way to get started is to install the library as a NuGet package:
 
 ```powershell
-Install-Package Citrus.Avalonia
-# Or 'dotnet add package Citrus.Avalonia'
+Install-Package OneDark.Avalonia
+# Or 'dotnet add package OneDark.Avalonia'
 ```
 
 Then, reference the preffered theme from your `App.xaml` file:
